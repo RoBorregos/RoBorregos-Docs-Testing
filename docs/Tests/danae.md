@@ -2,7 +2,7 @@
 
 ## Headings
 
-DIferentes tamaños de enzabezados
+DIferentes tamaños de encabezados
 
 Example:
 ```markdown
